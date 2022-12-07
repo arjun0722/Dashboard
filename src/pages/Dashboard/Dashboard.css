@@ -1,0 +1,38 @@
+.main_con{
+    display: flex;
+    margin-top: 3rem;
+    justify-content: space-around;
+    align-items: center;
+}
+.table{
+    flex: 0.5;
+}
+.pie_chart{
+    flex: 0.5;
+    background-color: aliceblue;
+}
+.stacked_chart{
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    flex: 0.7;
+}
+.card{
+    flex: 0.3;
+}
+.upper_con{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.rainbow{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.heading{
+    margin-left: 4rem;
+margin-top: 1rem;
+font-size: 20px;
+color: gray;
+
+}

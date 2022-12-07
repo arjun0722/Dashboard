@@ -1,0 +1,9 @@
+.sidebar{
+    flex: 0.13;
+}
+.routes{
+    flex: 0.86;
+}
+.App{
+    display: flex;
+}
